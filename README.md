@@ -1,7 +1,10 @@
 # ms-project-to-powerpoint-converter with Python
 
   :warning: Avoid leaving open the files that will be used
+  
+  :warning: If you can't open your MS project file, in the task manager, select and click end task
 
+  
 ## Use case
 The manager performs his task registration in MS Project, but he needs to generate slides to
 Submit to the CEO of the company.
@@ -70,6 +73,9 @@ Fields that will be used:
     <img src="https://github.com/usil/ms-project-to-powerpoint-converter/assets/77288944/88e62629-7cbd-44ba-895e-0e637839fe75" width="100%">
   </p>
   <p align="center">
+    <img src="https://github.com/usil/ms-project-to-powerpoint-converter/assets/77288944/5e22efbe-53cf-4f60-8391-f76b113cf300" width="100%">
+  </p>
+  <p align="center">
     <img src="https://github.com/usil/ms-project-to-powerpoint-converter/assets/77288944/d366a8b2-45a8-408a-8525-80f66bbe92d1" width="100%">
   </p>
 
@@ -86,14 +92,13 @@ py main.py -sf "source folder" -is "1,2" -bn "Project > System 1"
     <img src="https://github.com/usil/ms-project-to-powerpoint-converter/assets/77288944/6666e6dc-dea9-463c-ad02-7a3c99aa15e6" width="100%">
   </p>
   <p align="center">
-    <img src="https://github.com/usil/ms-project-to-powerpoint-converter/assets/77288944/88e62629-7cbd-44ba-895e-0e637839fe75" width="100%">
-  </p>
-  <p align="center">
-    <img src="https://github.com/usil/ms-project-to-powerpoint-converter/assets/77288944/d366a8b2-45a8-408a-8525-80f66bbe92d1" width="100%">
+    <img src="https://github.com/usil/ms-project-to-powerpoint-converter/assets/77288944/c532bcd4-72df-41fb-bae5-f836f90c6004" width="100%">
   </p>
 
 3. Result 
-
+  <p align="center">
+    <img src="https://github.com/usil/ms-project-to-powerpoint-converter/assets/77288944/17b4071a-9ba8-44fd-b377-ab80c00783bd" width="100%">
+  </p>
 
 ## Contributors
 
